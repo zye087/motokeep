@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "part_name": "Oil Filter",
+    "odometer": 5000,
+    "service_date": "January 15, 2024"
+  },
+  {
+    "id": 2,
+    "part_name": "Air Filter",
+    "odometer": 10000,
+    "service_date": "February 20, 2024"
+  },
+  {
+    "id": 3,
+    "part_name": "Spark Plugs",
+    "odometer": 15000,
+    "service_date": "March 10, 2024"
+  },
+  {
+    "id": 4,
+    "part_name": "Brake Pads",
+    "odometer": 20000,
+    "service_date": "April 5, 2024"
+  },
+  {
+    "id": 5,
+    "part_name": "Chain Lubrication",
+    "odometer": 8000,
+    "service_date": "January 25, 2024"
+  },
+  {
+    "id": 6,
+    "part_name": "Coolant Flush",
+    "odometer": 25000,
+    "service_date": "May 12, 2024"
+  },
+  {
+    "id": 7,
+    "part_name": "Tire Rotation",
+    "odometer": 12000,
+    "service_date": "February 28, 2024"
+  },
+  {
+    "id": 8,
+    "part_name": "Battery Check",
+    "odometer": 18000,
+    "service_date": "March 30, 2024"
+  },
+  {
+    "id": 9,
+    "part_name": "Brake Fluid",
+    "odometer": 22000,
+    "service_date": "April 18, 2024"
+  },
+  {
+    "id": 10,
+    "part_name": "Engine Oil",
+    "odometer": 30000,
+    "service_date": "June 1, 2024"
+  }
+]
